@@ -142,7 +142,7 @@ endmodule
 
 <h3>Output Waveform</h3>
 
-![image](https://github.com/naveen11-cmd/FSM_for_Sequence_Detector/blob/main/Screenshot%202026-03-16%20140357.png)
+![image](https://github.com/naveen11-cmd/FSM_for_Sequence_Detector/blob/main/Screenshot%202026-03-16%20141735.png)
 
 # Moore 1011
 
